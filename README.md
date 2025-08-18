@@ -1,4 +1,4 @@
-<<<<<< HEAD
+
 # Book Notes Web App
 
 A full-stack web application to track, review, and rate books, featuring a modern olive and white UI with bold animations. Built with Node.js, Express.js, PostgreSQL, EJS, and the Open Library Covers API.
@@ -74,6 +74,5 @@ A full-stack web application to track, review, and rate books, featuring a moder
 
 MIT
 =======
-# BookNotes
-a book notes library 
->>>>>>> c18f8c77340a7b673a0bf847f782425c44e31cbb
+ 
+
